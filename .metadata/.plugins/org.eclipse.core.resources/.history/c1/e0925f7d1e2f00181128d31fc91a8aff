@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Fifthteen {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a;
+		int count=10;
+		
+		System.out.println("숫자 입력: ");
+		Scanner scan = new Scanner(System.in);
+		a = scan.nextInt();
+		
+		
+		
+	}
+
+}
